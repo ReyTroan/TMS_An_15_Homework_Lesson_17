@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TMS_An_15_Homework_Lesson_17</string>
+    <string name="select_text">Выбрать</string>
+    <string name="farther_text">Далее</string>
+    <string name="back_text">Назад</string>
+    <string name="all_right_text">А, всё в порядке, мы нашли его...</string>
+</resources>
